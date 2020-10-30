@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Scan QR Code</string>
+    <string name="page_title">安卓原生扫码Demo</string>
+    <string name="scan">扫码</string>
+</resources>
