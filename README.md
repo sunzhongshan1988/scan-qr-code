@@ -1,4 +1,3 @@
-[![Version](https://img.shields.io/github/package-json/v/sunzhongshan1988/scan-qr-code)](http://ionic-reference-app.mozhengxi.me/)
 ![GitHub](https://img.shields.io/github/license/sunzhongshan1988/scan-qr-code)
 ![Language](https://img.shields.io/github/languages/count/sunzhongshan1988/scan-qr-code)
 ![GitHub top language](https://img.shields.io/github/languages/top/sunzhongshan1988/scan-qr-code)
