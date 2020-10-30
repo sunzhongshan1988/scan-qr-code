@@ -1,0 +1,13 @@
+{
+  "appId": "me.mozhengxi.ionic.scan_qr_code",
+  "appName": "Hybrid Scan QR Code",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

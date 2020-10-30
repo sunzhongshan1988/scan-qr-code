@@ -1,0 +1,87 @@
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+
+/* Core CSS required for Ionic components to work properly */
+@import "~@ionic/angular/css/core.css";
+
+/* Basic CSS for apps built with Ionic */
+@import "~@ionic/angular/css/normalize.css";
+@import "~@ionic/angular/css/structure.css";
+@import "~@ionic/angular/css/typography.css";
+@import '~@ionic/angular/css/display.css';
+
+/* Optional CSS utils that can be commented out */
+@import "~@ionic/angular/css/padding.css";
+@import "~@ionic/angular/css/float-elements.css";
+@import "~@ionic/angular/css/text-alignment.css";
+@import "~@ionic/angular/css/text-transformation.css";
+@import "~@ionic/angular/css/flex-utils.css";
+
+@media screen and (width < 576px) {
+  html, body{
+    font-size: 75% !important;
+  }
+}
+
+// Layout
+.borderRadius-s {
+  border-radius: 0.4rem;
+}
+.borderRadius-m {
+  border-radius: 0.6rem;
+}
+.borderRadius-l {
+  border-radius: 0.8rem;
+}
+
+.fontSize-s {
+  font-size: 0.8rem;
+}
+.fontSize-m {
+  font-size: 1rem
+}
+.fontSize-l {
+  font-size: 1.2rem
+}
+.fontSize-xl {
+  font-size: 2rem
+}
+.fontSize-xxl {
+  font-size: 3.6rem
+}
+
+// Colors
+.iconBankCard {
+  color: #febe42;
+}
+.iconWechat {
+  color: #11CD6E;
+}
+.iconAlipay {
+  color: #327afe;
+}
+
+// Change system style
+.noPaddingItem{
+  --padding-start: 0;
+  --padding-end: 0;
+}
+ion-grid{
+
+}
+ion-row{
+
+}
+ion-col{
+  ion-card{
+    margin: 0 !important;
+  }
+}
