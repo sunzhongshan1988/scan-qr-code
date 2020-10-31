@@ -8,3 +8,5 @@
 - Android原生: [http://distribution.mozhengxi.me/qy/yvmo](http://distribution.mozhengxi.me/qy/yvmo)
 - Flutter: [http://distribution.mozhengxi.me/qy/j4gd](http://distribution.mozhengxi.me/qy/j4gd)
 - Hybird: [http://distribution.mozhengxi.me/qy/k6xw](http://distribution.mozhengxi.me/qy/k6xw)
+# Excel
+Excel需要启用宏，然后可使用功能控件
